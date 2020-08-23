@@ -13,7 +13,7 @@
  많이들 오셔서 구경하고 가세요 ~~
  
  
-링크를 클릭하세요 ------ 여기 <a="https://www.youtube.com/watch?v=qv-k38lqlT8>클릭</a> ><
+링크를 클릭하세요 ------ 여기 <a href="https://www.youtube.com/watch?v=qv-k38lqlT8>클릭</a> ><
  
  
   왜 안들어가져
